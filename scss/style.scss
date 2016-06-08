@@ -1,0 +1,26 @@
+body {
+  color: #222;
+  margin: 0;
+  overflow: hidden;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Cherry Cream Soda', cursive;
+  font-size: 50px;
+  font-weight: 900;
+  margin-top: -1.5em;
+}
+
+img {
+  max-width: 4em;
+  display: block;
+  margin-top: -2em;
+  margin-left: 21em;
+}
+
+#canvas {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
